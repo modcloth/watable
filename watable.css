@@ -15,7 +15,7 @@
   line-height: 18px;
 }
 
-.watable i {
+.watable span.glyphicon {
   margin: 0 0 0 2px;
   opacity: 0.5;
 }
